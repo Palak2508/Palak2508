@@ -1,91 +1,161 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C084FC&height=220&section=header&text=Palak%20Pandey&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Developer%20%7C%20Data%20Analytics%20%7C%20Software%20Development&descSize=16&descAlignY=60&descColor=F3E8FF)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:35105F,100:8B5CF6&height=250&section=header&text=PALAK%20PANDEY&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ANALYTICS&descSize=14&descAlignY=65&animation=fadeIn)
 
-<h2 align="center">Hey there! 👋 Welcome to my GitHub</h2>
+<div align="center">
 
-<p align="center">
-  <i>Turning data into insights and ideas into intelligent solutions.</i>
-</p>
+### Building intelligent solutions. Exploring data. Creating impact.
 
----
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
+[![GitHub](https://img.shields.io/badge/GITHUB-1C1C27?style=flat-square&logo=github&logoColor=white)](https://github.com/Palak2508)
 
-### 💜 About Me
-
-- 🎓 Final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**.
-- 🤖 Interested in Machine Learning, Data Science and AI-driven applications.
-- 📊 Passionate about Data Analytics, visualization and solving real-world problems.
-- 💻 Enjoy building practical projects using Python, SQL and modern technologies.
-- 🌱 Always learning, experimenting and building something new.
+</div>
 
 ---
 
-### 🛠️ Tech Stack
+## `01` — A little about me
 
-**Programming Languages**
+Hi, I'm **Palak**, an AI/ML enthusiast and aspiring software developer with a passion for building technology that solves real-world problems.
 
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7B2CBF?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-8A2BE2?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-9D4EDD?style=for-the-badge&logo=javascript&logoColor=white)
+I'm currently pursuing my final year of B.Tech in Artificial Intelligence & Machine Learning.
 
-**Data Analytics & Machine Learning**
-
-![Pandas](https://img.shields.io/badge/Pandas-6A0DAD?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-7B2CBF?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-8A2BE2?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-9D4EDD?style=for-the-badge&logo=powerbi&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-6A0DAD?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-7B2CBF?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
-**Web Development & Tools**
-
-![React](https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-7B2CBF?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-8A2BE2?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-9D4EDD?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6A0DAD?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7B2CBF?style=for-the-badge&logo=github&logoColor=white)
+- Exploring Machine Learning, Deep Learning and Generative AI.
+- Turning raw data into meaningful business insights.
+- Building full-stack applications and intelligent systems.
+- Always curious about new technologies and ideas.
 
 ---
 
-### 🚀 Featured Projects
+## `02` — Technologies I work with
 
-| Project | Description | Technologies |
-|---|---|---|
-| [AI-Based Multimodal Virality Prediction](https://github.com/Mayur4251/AI-Based-Multimodal-Content-Virality-Prediction-System) | Predicting content virality using image, text and tabular features. | Python, ML, CNN, XGBoost |
-| [Retail Customer Insights](https://github.com/Palak2508/Retail-Customer-Insights-Analytics) | Customer segmentation, purchasing patterns and business insights. | Python, SQL, Power BI |
-| [Pizza Sales Analysis](https://github.com/Palak2508/pizza-sales-analysis-dashboard) | Sales performance and customer ordering pattern analysis. | SQL, Excel |
-| [Portfolio Website](https://github.com/Palak2508/Portfolio) | Personal portfolio showcasing my projects and skills. | React, TypeScript |
-| [ExpressDelivery](https://github.com/Palak2508/ExpressDelivery) | Delivery-focused application project. | TypeScript |
-| [Shipment Dashboard](https://github.com/Palak2508/shipment-dashboard-project) | Shipment and logistics dashboard project. | JavaScript |
+<div align="center">
 
----
+**LANGUAGES**
 
-### 📊 GitHub Statistics
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&theme=midnight-purple&hide_border=true" height="165" />
-</p>
+**AI / DATA / ANALYTICS**
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Palak2508&theme=midnight-purple&hide_border=true" width="70%" />
-</p>
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,mysql,postgres&theme=dark)](https://skillicons.dev)
+
+**DEVELOPMENT & TOOLS**
+
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode&theme=dark)](https://skillicons.dev)
+
+**ALSO FAMILIAR WITH**
+
+Power BI · Tableau · Excel · Pandas · NumPy · SQL · XGBoost
+
+</div>
 
 ---
 
-### 🌐 Let's Connect
+## `03` — Selected work
 
-<p align="center">
-  <a href="https://github.com/Palak2508">
-    <img src="https://img.shields.io/badge/GitHub-6A0DAD?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://portfolio-website-fdd--preview.app.orvisai.com/">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%">
 
-<p align="center">
-  💜 Thanks for visiting my profile! Let's connect, collaborate and build something amazing.
-</p>
+### 🧠 Multimodal Virality Prediction
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,50:8A2BE2,100:C084FC&height=100&section=footer)
+An AI-powered system that predicts content virality by combining visual, textual and tabular features.
+
+**Stack:** Python · CNN · TF-IDF · XGBoost
+
+[View Project →](https://github.com/Mayur4251/AI-Based-Multimodal-Content-Virality-Prediction-System)
+
+</td>
+<td width="50%">
+
+### 📊 Retail Customer Intelligence
+
+Analyzed 3,900+ customer records to uncover purchasing patterns, customer segments and business insights.
+
+**Stack:** Python · SQL · Power BI
+
+[View Project →](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍕 Pizza Sales Analytics
+
+Explored sales performance, revenue trends, popular products and customer ordering behavior.
+
+**Stack:** SQL · Excel
+
+[View Project →](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
+
+</td>
+<td width="50%">
+
+### 🚚 ExpressDelivery
+
+A software development project focused on building a delivery application.
+
+**Stack:** TypeScript
+
+[View Project →](https://github.com/Palak2508/ExpressDelivery)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 📦 Shipment Dashboard
+
+A dashboard project focused on shipment and logistics information.
+
+**Stack:** JavaScript
+
+[View Project →](https://github.com/Palak2508/shipment-dashboard-project)
+
+</td>
+<td width="50%">
+
+### 🌐 Personal Portfolio
+
+A personal website showcasing my technical skills, projects and development journey.
+
+**Stack:** React · TypeScript
+
+[View Project →](https://github.com/Palak2508/Portfolio)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `04` — GitHub activity
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4A1FF&icon_color=A78BFA&text_color=E6E0F0" />
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2508&hide_border=true&background=0D0B14&ring=A78BFA&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=C4A1FF&dates=9990AA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4A1FF&text_color=E6E0F0" />
+
+</div>
+
+---
+
+## `05` — Let's connect
+
+<div align="center">
+
+I'm always open to interesting projects, collaborations and opportunities.
+
+[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-18141F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak2508)
+
+<br/>
+
+*Curiosity drives me. Code helps me create.* ✨
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:35105F,100:090014&height=120&section=footer)
+
