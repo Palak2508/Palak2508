@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0b46,50:6b168d,100:c026d3&height=210&section=header&text=HELLO%20WORLD&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=PALAK%20PANDEY%20%7C%20DEVELOPER%20%7C%20DATA%20ENTHUSIAST&descAlignY=60&descSize=15&animation=twinkling" width="100%" />
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=B.Tech+IT+Student+%F0%9F%8E%93;AI%2FML+%26+Data+Analytics+Enthusiast;Developer+who+loves+building+things;Learning+%7C+Creating+%7C+Growing" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=35&lines=B.Tech+IT+Student+%F0%9F%8E%93;AI%2FML+%26+Data+Analytics+Enthusiast;Developer+who+loves+building+things;Learning+%7C+Creating+%7C+Growing" />
 
 <br/>
 
@@ -14,11 +12,17 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 💜 ABOUT ME
 
-<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<div align="right">
+
+🦉💻
+
+*Little coder, big dreams!*
+
+</div>
 
 ### Hey, I'm Palak Pandey! 👋
 
@@ -32,9 +36,7 @@ I enjoy exploring how data, software development and artificial intelligence can
 - 💻 Building projects and improving my development skills
 - 🌱 Always curious to learn something new
 
-<br clear="right"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## ⚡ MY TECH STACK
 
@@ -55,7 +57,7 @@ I enjoy exploring how data, software development and artificial intelligence can
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 🚀 MY PROJECTS
 
@@ -80,7 +82,6 @@ Analyzed pizza sales, customer ordering patterns and business performance.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -101,7 +102,6 @@ A dashboard project focused on shipment and logistics information.
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
@@ -124,7 +124,7 @@ Always experimenting with new ideas and building practical solutions.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 📈 GITHUB STATISTICS
 
@@ -140,7 +140,7 @@ Always experimenting with new ideas and building practical solutions.
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 🎯 CURRENTLY EXPLORING
 
@@ -150,7 +150,7 @@ Always experimenting with new ideas and building practical solutions.
 - Problem Solving and DSA
 - Building meaningful projects
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 🌸 BEYOND THE CODE
 
@@ -160,7 +160,7 @@ For me, coding is not just about writing programs. It's about learning, experime
 
 **Dream big. Keep learning. Keep building.** 💜
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&section=header" width="100%" />
 
 ## 🤝 LET'S CONNECT
 
@@ -183,3 +183,5 @@ For me, coding is not just about writing programs. It's about learning, experime
 <sub>Made with 💜, curiosity and lots of code.</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0b46,50:6b168d,100:c026d3&height=100&section=footer" width="100%" />
