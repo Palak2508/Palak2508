@@ -1,151 +1,32 @@
-![Lavender Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27,30&height=240&section=header&text=Palak%20Pandey&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Explorer&descSize=16&descAlignY=60&animation=fadeIn)
 
 <div align="center">
 
-### ✿ Hello, World! I'm Palak.
-
-*I turn curiosity into code, data into stories, and ideas into experiences.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-C8A2C8?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-BB9CCB?style=flat-square&logo=github&logoColor=white)](https://github.com/Palak2508)
+<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=HELLO%20WORLD&fontSize=42&fontColor=ffffff&color=0:4b075b,50:9b20b9,100:ed65d9&stroke=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descSize=12&descAlignY=75"/>
 
 </div>
 
----
+<h3>✍️ I'M PALAK!</h3>
 
-<div align="center">
-
-`CREATIVE MIND` &nbsp; · &nbsp; `TECHNICAL THINKER` &nbsp; · &nbsp; `LIFELONG LEARNER`
-
-</div>
-
-## ୨ৎ A little about me
-
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**, passionate about exploring the intersection of technology, creativity and problem-solving.
-
-I enjoy experimenting with data, developing intelligent applications and building projects that transform ideas into practical solutions.
-
-- ✧ Exploring Machine Learning, AI and Data Science.
-- ✧ Finding meaningful patterns hidden in data.
-- ✧ Building applications and experimenting with new technologies.
-- ✧ Learning, creating and continuously improving.
-
-**Currently interested in:** AI/ML · Data Analytics · Software Development
-
----
-
-## ✿ My creative toolkit
-
-<div align="center">
-
-**01 — PROGRAMMING**
-
-[![Languages](https://skillicons.dev/icons?i=python,cpp,java,js&theme=light)](https://skillicons.dev)
-
-**02 — DATA & INTELLIGENCE**
-
-[![Data Tools](https://skillicons.dev/icons?i=mysql,postgres,tensorflow,sklearn&theme=light)](https://skillicons.dev)
-
-**03 — DEVELOPMENT & TOOLS**
-
-[![Development](https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode&theme=light)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-`Pandas` &nbsp; `NumPy` &nbsp; `Power BI` &nbsp; `Tableau` &nbsp; `Excel` &nbsp; `SQL`
-
-</div>
-
----
-
-## ୨ৎ Things I've built
-
-*A little collection of ideas, experiments and projects.*
+<sub>୨ৎ AI/ML Enthusiast | Developer | Data Explorer</sub>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="72%" valign="top">
 
-### 01. Retail Intelligence
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**, passionate about turning ideas into practical solutions.
 
-<sub>DATA ANALYTICS</sub>
+- ✦ Student of AI & ML
+- ✦ Exploring data science and machine learning.
+- ✦ Finding meaningful patterns hidden in data.
+- ✦ Building applications and experimenting with technology.
+- ✦ Learning, creating and continuously improving.
 
-Turning retail purchase data into meaningful customer insights through analysis and visualization.
-
-**Tools:** Python · SQL · PostgreSQL · Power BI
-
-[Explore project ↗](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Points Receipt
-
-<sub>FANTASY CRICKET ANALYTICS</sub>
-
-Breaking down fantasy cricket points to understand exactly where the difference in team rankings comes from.
-
-**Tools:** HTML
-
-[Explore project ↗](https://github.com/Palak2508/points-receipt)
+**Currently interested in:** AI/ML · Data Analytics · Software Development
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="28%" align="center" valign="middle">
 
-### 03. Pizza Sales Stories
-
-<sub>BUSINESS INTELLIGENCE</sub>
-
-Exploring sales performance, revenue trends, popular pizza categories and customer ordering patterns.
-
-**Tools:** SQL · Excel
-
-[Explore project ↗](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
-
-</td>
-<td width="50%" valign="top">
-
-### 04. Personal Portfolio
-
-<sub>WEB DEVELOPMENT</sub>
-
-My personal corner on the internet, showcasing my projects, skills and developer journey.
-
-**Tools:** React · TypeScript
-
-[Explore project ↗](https://github.com/Palak2508/Portfolio) · [Live website ↗](https://portfolio-website-fdd--preview.app.orvisai.com/)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05. ExpressDelivery
-
-<sub>SOFTWARE DEVELOPMENT</sub>
-
-A delivery-focused application project exploring software development concepts.
-
-**Tools:** TypeScript
-
-[Explore project ↗](https://github.com/Palak2508/ExpressDelivery)
-
-</td>
-<td width="50%" valign="top">
-
-### 06. Shipment Dashboard
-
-<sub>DATA & WEB DEVELOPMENT</sub>
-
-A project focused on shipment information and logistics-related dashboard development.
-
-**Tools:** JavaScript
-
-[Explore project ↗](https://github.com/Palak2508/shipment-dashboard-project)
+<img src="YOUR_MASCOT_IMAGE_URL" width="145"/>
 
 </td>
 </tr>
@@ -153,37 +34,86 @@ A project focused on shipment information and logistics-related dashboard develo
 
 ---
 
-## ✿ My GitHub corner
+### ✧ MY CREATIVE TOOLKIT
+
+**PROGRAMMING**
+
+<img src="https://skillicons.dev/icons?i=python,java,php,js&theme=dark"/>
+
+**DATA & INTELLIGENCE**
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
+
+`Pandas` `NumPy` `Power BI` `Tableau` `Excel`
+
+**DEVELOPMENT & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,typescript,git,github,vscode&theme=dark"/>
+
+---
+
+### ✨ THINGS I'VE BUILT
+
+**01 / RETAIL INTELLIGENCE** `DATA ANALYTICS`
+
+Retail purchase analysis and customer insights.
+
+[Explore ↗](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
+
+**02 / POINTS RECEIPT** `FANTASY CRICKET`
+
+Understanding fantasy cricket points and team rankings.
+
+[Explore ↗](https://github.com/Palak2508/points-receipt)
+
+**03 / PIZZA SALES STORIES** `BUSINESS INTELLIGENCE`
+
+Sales trends, revenue and customer ordering patterns.
+
+[Explore ↗](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
+
+**04 / PERSONAL PORTFOLIO** `WEB DEVELOPMENT`
+
+A personal website showcasing my developer journey.
+
+[Explore ↗](https://github.com/Palak2508/Portfolio)
+
+**05 / EXPRESS DELIVERY** `SOFTWARE DEVELOPMENT`
+
+A delivery-focused application project.
+
+[Explore ↗](https://github.com/Palak2508/ExpressDelivery)
+
+**06 / SHIPMENT DASHBOARD** `DATA & WEB DEVELOPMENT`
+
+A logistics-focused dashboard project.
+
+[Explore ↗](https://github.com/Palak2508/shipment-dashboard-project)
+
+---
+
+### ୨ৎ MY GITHUB CORNER
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&hide_border=true&bg_color=FFF8FF&title_color=9876AA&icon_color=B695C0&text_color=65536F&ring_color=C8A2C8)
+<img src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&theme=midnight-purple&hide_border=true" width="95%"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&hide_border=true&bg_color=FFF8FF&title_color=9876AA&text_color=65536F)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Palak2508&theme=default&hide_border=true&background=FFF8FF&ring=C8A2C8&fire=B695C0&currStreakLabel=9876AA&sideLabels=9876AA&dates=8F8299)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## ୨ৎ Beyond the code
+### ✿ BEYOND THE CODE
 
 I believe the best things are built through curiosity, collaboration and a willingness to keep learning.
 
-I'm always happy to connect with fellow developers, explore interesting ideas and collaborate on meaningful projects.
+Always happy to connect with fellow developers and explore interesting ideas.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-C8A2C8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
-
-[![GitHub](https://img.shields.io/badge/LET'S_CONNECT-BB9CCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak2508)
-
-<br/>
+[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Palak2508)
 
 *Made with curiosity, creativity & a little bit of lavender. ♡*
 
 </div>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27,30&height=120&section=footer)
-
