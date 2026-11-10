@@ -1,32 +1,124 @@
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e0b46,50:6b168d,100:c026d3&height=210&section=header&text=HELLO%20WORLD&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=PALAK%20PANDEY%20%7C%20DEVELOPER%20%7C%20DATA%20ENTHUSIAST&descAlignY=60&descSize=15&animation=twinkling" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=190&text=HELLO%20WORLD&fontSize=42&fontColor=ffffff&color=0:4b075b,50:9b20b9,100:ed65d9&stroke=ffffff&animation=fadeIn&desc=Welcome%20to%20my%20GitHub&descSize=12&descAlignY=75"/>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=C084FC&center=true&vCenter=true&width=700&height=45&lines=B.Tech+IT+Student+%F0%9F%8E%93;AI%2FML+%26+Data+Analytics+Enthusiast;Developer+who+loves+building+things;Learning+%7C+Creating+%7C+Growing" />
+</a>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub-Palak2508-8B5CF6?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Data-C084FC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20to-Learning-6D28D9?style=for-the-badge" />
 
 </div>
 
-<h3>✍️ I'M PALAK!</h3>
+---
 
-<sub>୨ৎ AI/ML Enthusiast | Developer | Data Explorer</sub>
+## 💜 ABOUT ME
+
+<img align="right" alt="Coding" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### Hey, I'm Palak Pandey! 👋
+
+I'm a B.Tech IT student passionate about technology, problem-solving and building practical projects.
+
+I enjoy exploring how data, software development and artificial intelligence can solve real-world problems.
+
+- 🎓 B.Tech in Information Technology
+- 🤖 Interested in AI, Machine Learning and Data Science
+- 📊 Exploring Data Analytics and Business Intelligence
+- 💻 Building projects and improving my development skills
+- 🌱 Always curious to learn something new
+
+<br clear="right"/>
+
+---
+
+## ⚡ MY TECH STACK
+
+**Programming Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css&theme=dark" />
+
+**Data Analytics & AI**
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
+
+---
+
+## 🚀 MY PROJECTS
 
 <table>
 <tr>
-<td width="72%" valign="top">
+<td width="50%" valign="top">
 
-I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**, passionate about turning ideas into practical solutions.
+### 📊 Retail Customer Insights
 
-- ✦ Student of AI & ML
-- ✦ Exploring data science and machine learning.
-- ✦ Finding meaningful patterns hidden in data.
-- ✦ Building applications and experimenting with technology.
-- ✦ Learning, creating and continuously improving.
+Analyzed retail customer purchasing patterns using Python, PostgreSQL, SQL and Power BI.
 
-**Currently interested in:** AI/ML · Data Analytics · Software Development
+<a href="https://github.com/Palak2508/Retail-Customer-Insights-Analytics">View Project →</a>
 
 </td>
-<td width="28%" align="center" valign="middle">
+<td width="50%" valign="top">
 
-<img src="YOUR_MASCOT_IMAGE_URL" width="145"/>
+### 🍕 Pizza Sales Dashboard
+
+Analyzed pizza sales, customer ordering patterns and business performance.
+
+<a href="https://github.com/Palak2508/pizza-sales-analysis-dashboard">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Express Delivery
+
+A delivery-focused application project.
+
+<a href="https://github.com/Palak2508/ExpressDelivery">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 Shipment Dashboard
+
+A dashboard project focused on shipment and logistics information.
+
+<a href="https://github.com/Palak2508/shipment-dashboard-project">View Project →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Personal Portfolio
+
+My personal portfolio showcasing my skills, projects and developer journey.
+
+<a href="https://github.com/Palak2508/Portfolio">View Project →</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💡 More Projects
+
+Always experimenting with new ideas and building practical solutions.
+
+<a href="https://github.com/Palak2508?tab=repositories">Explore All Repositories →</a>
 
 </td>
 </tr>
@@ -34,86 +126,60 @@ I'm a final-year B.Tech student specializing in **Artificial Intelligence & Mach
 
 ---
 
-### ✧ MY CREATIVE TOOLKIT
-
-**PROGRAMMING**
-
-<img src="https://skillicons.dev/icons?i=python,java,php,js&theme=dark"/>
-
-**DATA & INTELLIGENCE**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
-
-`Pandas` `NumPy` `Power BI` `Tableau` `Excel`
-
-**DEVELOPMENT & TOOLS**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,typescript,git,github,vscode&theme=dark"/>
-
----
-
-### ✨ THINGS I'VE BUILT
-
-**01 / RETAIL INTELLIGENCE** `DATA ANALYTICS`
-
-Retail purchase analysis and customer insights.
-
-[Explore ↗](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
-
-**02 / POINTS RECEIPT** `FANTASY CRICKET`
-
-Understanding fantasy cricket points and team rankings.
-
-[Explore ↗](https://github.com/Palak2508/points-receipt)
-
-**03 / PIZZA SALES STORIES** `BUSINESS INTELLIGENCE`
-
-Sales trends, revenue and customer ordering patterns.
-
-[Explore ↗](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
-
-**04 / PERSONAL PORTFOLIO** `WEB DEVELOPMENT`
-
-A personal website showcasing my developer journey.
-
-[Explore ↗](https://github.com/Palak2508/Portfolio)
-
-**05 / EXPRESS DELIVERY** `SOFTWARE DEVELOPMENT`
-
-A delivery-focused application project.
-
-[Explore ↗](https://github.com/Palak2508/ExpressDelivery)
-
-**06 / SHIPMENT DASHBOARD** `DATA & WEB DEVELOPMENT`
-
-A logistics-focused dashboard project.
-
-[Explore ↗](https://github.com/Palak2508/shipment-dashboard-project)
-
----
-
-### ୨ৎ MY GITHUB CORNER
+## 📈 GITHUB STATISTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&theme=midnight-purple&hide_border=true" width="95%"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=A855F7&text_color=E9D5FF" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Palak2508&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF" />
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E9D5FF" />
 
 </div>
 
 ---
 
-### ✿ BEYOND THE CODE
+## 🎯 CURRENTLY EXPLORING
 
-I believe the best things are built through curiosity, collaboration and a willingness to keep learning.
+- Artificial Intelligence & Machine Learning
+- Data Analytics and Visualization
+- Software Development
+- Problem Solving and DSA
+- Building meaningful projects
 
-Always happy to connect with fellow developers and explore interesting ideas.
+---
+
+## 🌸 BEYOND THE CODE
+
+I believe every great developer starts with curiosity.
+
+For me, coding is not just about writing programs. It's about learning, experimenting, solving problems and turning ideas into reality.
+
+**Dream big. Keep learning. Keep building.** 💜
+
+---
+
+## 🤝 LET'S CONNECT
 
 <div align="center">
 
-[LinkedIn](YOUR_LINKEDIN_URL) · [GitHub](https://github.com/Palak2508)
+<a href="https://github.com/Palak2508">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-*Made with curiosity, creativity & a little bit of lavender. ♡*
+<a href="https://www.linkedin.com/in/palak-pandey-745a33323/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Palak2508&label=PROFILE%20VIEWS&color=8B5CF6&style=flat-square" />
+
+### ✨ Thanks for visiting my profile!
+
+<sub>Made with 💜, curiosity and lots of code.</sub>
 
 </div>
