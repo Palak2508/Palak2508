@@ -1,125 +1,151 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:090014,50:35105F,100:8B5CF6&height=250&section=header&text=PALAK%20PANDEY&fontSize=55&fontColor=ffffff&fontAlignY=45&desc=AI%20%7C%20MACHINE%20LEARNING%20%7C%20DATA%20ANALYTICS&descSize=14&descAlignY=65&animation=fadeIn)
+![Lavender Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27,30&height=240&section=header&text=Palak%20Pandey&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Developer%20%7C%20AI%20Enthusiast%20%7C%20Data%20Explorer&descSize=16&descAlignY=60&animation=fadeIn)
 
 <div align="center">
 
-### Building intelligent solutions. Exploring data. Creating impact.
+### ✿ Hello, World! I'm Palak.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
-[![GitHub](https://img.shields.io/badge/GITHUB-1C1C27?style=flat-square&logo=github&logoColor=white)](https://github.com/Palak2508)
+*I turn curiosity into code, data into stories, and ideas into experiences.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-C8A2C8?style=flat-square&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-BB9CCB?style=flat-square&logo=github&logoColor=white)](https://github.com/Palak2508)
 
 </div>
 
 ---
 
-## `01` — A little about me
+<div align="center">
 
-Hi, I'm **Palak**, an AI/ML enthusiast and aspiring software developer with a passion for building technology that solves real-world problems.
+`CREATIVE MIND` &nbsp; · &nbsp; `TECHNICAL THINKER` &nbsp; · &nbsp; `LIFELONG LEARNER`
 
-I'm currently pursuing my final year of B.Tech in Artificial Intelligence & Machine Learning.
+</div>
 
-- Exploring Machine Learning, Deep Learning and Generative AI.
-- Turning raw data into meaningful business insights.
-- Building full-stack applications and intelligent systems.
-- Always curious about new technologies and ideas.
+## ୨ৎ A little about me
+
+I'm a final-year B.Tech student specializing in **Artificial Intelligence & Machine Learning**, passionate about exploring the intersection of technology, creativity and problem-solving.
+
+I enjoy experimenting with data, developing intelligent applications and building projects that transform ideas into practical solutions.
+
+- ✧ Exploring Machine Learning, AI and Data Science.
+- ✧ Finding meaningful patterns hidden in data.
+- ✧ Building applications and experimenting with new technologies.
+- ✧ Learning, creating and continuously improving.
+
+**Currently interested in:** AI/ML · Data Analytics · Software Development
 
 ---
 
-## `02` — Technologies I work with
+## ✿ My creative toolkit
 
 <div align="center">
 
-**LANGUAGES**
+**01 — PROGRAMMING**
 
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,java,js&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,cpp,java,js&theme=light)](https://skillicons.dev)
 
-**AI / DATA / ANALYTICS**
+**02 — DATA & INTELLIGENCE**
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,sklearn,mysql,postgres&theme=dark)](https://skillicons.dev)
+[![Data Tools](https://skillicons.dev/icons?i=mysql,postgres,tensorflow,sklearn&theme=light)](https://skillicons.dev)
 
-**DEVELOPMENT & TOOLS**
+**03 — DEVELOPMENT & TOOLS**
 
-[![My Skills](https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode&theme=dark)](https://skillicons.dev)
+[![Development](https://skillicons.dev/icons?i=react,html,css,tailwind,git,github,vscode&theme=light)](https://skillicons.dev)
 
-**ALSO FAMILIAR WITH**
+</div>
 
-Power BI · Tableau · Excel · Pandas · NumPy · SQL · XGBoost
+<div align="center">
+
+`Pandas` &nbsp; `NumPy` &nbsp; `Power BI` &nbsp; `Tableau` &nbsp; `Excel` &nbsp; `SQL`
 
 </div>
 
 ---
 
-## `03` — Selected work
+## ୨ৎ Things I've built
+
+*A little collection of ideas, experiments and projects.*
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 Multimodal Virality Prediction
+### 01. Retail Intelligence
 
-An AI-powered system that predicts content virality by combining visual, textual and tabular features.
+<sub>DATA ANALYTICS</sub>
 
-**Stack:** Python · CNN · TF-IDF · XGBoost
+Turning retail purchase data into meaningful customer insights through analysis and visualization.
 
-[View Project →](https://github.com/Mayur4251/AI-Based-Multimodal-Content-Virality-Prediction-System)
+**Tools:** Python · SQL · PostgreSQL · Power BI
 
-</td>
-<td width="50%">
-
-### 📊 Retail Customer Intelligence
-
-Analyzed 3,900+ customer records to uncover purchasing patterns, customer segments and business insights.
-
-**Stack:** Python · SQL · Power BI
-
-[View Project →](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
+[Explore project ↗](https://github.com/Palak2508/Retail-Customer-Insights-Analytics)
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🍕 Pizza Sales Analytics
+### 02. Points Receipt
 
-Explored sales performance, revenue trends, popular products and customer ordering behavior.
+<sub>FANTASY CRICKET ANALYTICS</sub>
 
-**Stack:** SQL · Excel
+Breaking down fantasy cricket points to understand exactly where the difference in team rankings comes from.
 
-[View Project →](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
+**Tools:** HTML
 
-</td>
-<td width="50%">
-
-### 🚚 ExpressDelivery
-
-A software development project focused on building a delivery application.
-
-**Stack:** TypeScript
-
-[View Project →](https://github.com/Palak2508/ExpressDelivery)
+[Explore project ↗](https://github.com/Palak2508/points-receipt)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📦 Shipment Dashboard
+### 03. Pizza Sales Stories
 
-A dashboard project focused on shipment and logistics information.
+<sub>BUSINESS INTELLIGENCE</sub>
 
-**Stack:** JavaScript
+Exploring sales performance, revenue trends, popular pizza categories and customer ordering patterns.
 
-[View Project →](https://github.com/Palak2508/shipment-dashboard-project)
+**Tools:** SQL · Excel
+
+[Explore project ↗](https://github.com/Palak2508/pizza-sales-analysis-dashboard)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 Personal Portfolio
+### 04. Personal Portfolio
 
-A personal website showcasing my technical skills, projects and development journey.
+<sub>WEB DEVELOPMENT</sub>
 
-**Stack:** React · TypeScript
+My personal corner on the internet, showcasing my projects, skills and developer journey.
 
-[View Project →](https://github.com/Palak2508/Portfolio)
+**Tools:** React · TypeScript
+
+[Explore project ↗](https://github.com/Palak2508/Portfolio) · [Live website ↗](https://portfolio-website-fdd--preview.app.orvisai.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 05. ExpressDelivery
+
+<sub>SOFTWARE DEVELOPMENT</sub>
+
+A delivery-focused application project exploring software development concepts.
+
+**Tools:** TypeScript
+
+[Explore project ↗](https://github.com/Palak2508/ExpressDelivery)
+
+</td>
+<td width="50%" valign="top">
+
+### 06. Shipment Dashboard
+
+<sub>DATA & WEB DEVELOPMENT</sub>
+
+A project focused on shipment information and logistics-related dashboard development.
+
+**Tools:** JavaScript
+
+[Explore project ↗](https://github.com/Palak2508/shipment-dashboard-project)
 
 </td>
 </tr>
@@ -127,35 +153,37 @@ A personal website showcasing my technical skills, projects and development jour
 
 ---
 
-## `04` — GitHub activity
+## ✿ My GitHub corner
 
 <div align="center">
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=C4A1FF&icon_color=A78BFA&text_color=E6E0F0" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Palak2508&show_icons=true&hide_border=true&bg_color=FFF8FF&title_color=9876AA&icon_color=B695C0&text_color=65536F&ring_color=C8A2C8)
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Palak2508&hide_border=true&background=0D0B14&ring=A78BFA&fire=C4A1FF&currStreakLabel=C4A1FF&sideLabels=C4A1FF&dates=9990AA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&hide_border=true&bg_color=FFF8FF&title_color=9876AA&text_color=65536F)
 
-<img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Palak2508&layout=compact&hide_border=true&bg_color=0D0B14&title_color=C4A1FF&text_color=E6E0F0" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Palak2508&theme=default&hide_border=true&background=FFF8FF&ring=C8A2C8&fire=B695C0&currStreakLabel=9876AA&sideLabels=9876AA&dates=8F8299)
 
 </div>
 
 ---
 
-## `05` — Let's connect
+## ୨ৎ Beyond the code
+
+I believe the best things are built through curiosity, collaboration and a willingness to keep learning.
+
+I'm always happy to connect with fellow developers, explore interesting ideas and collaborate on meaningful projects.
 
 <div align="center">
 
-I'm always open to interesting projects, collaborations and opportunities.
+[![Portfolio](https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-C8A2C8?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
 
-[![Portfolio](https://img.shields.io/badge/Explore_My_Portfolio-8B5CF6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-website-fdd--preview.app.orvisai.com/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-18141F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak2508)
+[![GitHub](https://img.shields.io/badge/LET'S_CONNECT-BB9CCB?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Palak2508)
 
 <br/>
 
-*Curiosity drives me. Code helps me create.* ✨
+*Made with curiosity, creativity & a little bit of lavender. ♡*
 
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:35105F,100:090014&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,25,27,30&height=120&section=footer)
 
